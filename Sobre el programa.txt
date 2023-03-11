@@ -1,0 +1,8 @@
+Proyecto desarrollado por:
+
+# Juan Clavijo - 2225709-3743
+# Jose Miguel Fuertes - 2224623-3743
+
+Nota:
+#1 - Si el programa falla por el archivo de música, sólo hay que eliminar
+las 3 lineas de código indicadas en este (las 2 de en medio y la otra casi al final).
